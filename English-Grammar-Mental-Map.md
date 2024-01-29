@@ -4,9 +4,11 @@
 
 ### Nouns
 
-- **Definition:** Names a person, place, thing, or idea.
+- **Definition:** A noun is a word used to name a person, place, thing, or idea.
 
 #### Common Nouns
+
+- **Definition:** Common nouns label general groups, places, people, or things.
 
 - *Types of Common Nouns:*
   1. *Individual Common Nouns*
@@ -33,7 +35,7 @@
     1. Regular Nouns:
        - Add "s" to form the plural.
          - Example: cat → cats
-    2. Nouns Ending in -s, -ss, -x, -sh, -ch:
+    2. Nouns Ending in -s, -ss, -x, -sh, z, -ch:
        - Add "es" to form the plural.
          - Example: box → boxes
     3. Nouns Ending in -y (preceded by a consonant):
@@ -42,7 +44,10 @@
     4. Nouns Ending in -y (preceded by a vowel):
        - Add "s" to form the plural.
          - Example: toy → toys
-    5. Irregular Nouns:
+    5. Nouns Ending in -f or -fe:
+       - changing the "f" or "fe" to "v" and adding -es.
+         - Example: wife → wives
+    6. Irregular Nouns:
        - No consistent rule; each noun changes uniquely.
          - Example: child → children
 
@@ -56,6 +61,12 @@
     - Singular nouns are used when referring to one item.
     - Plural nouns are used when referring to more than one item.
     - Pay attention to irregular plurals.
+
+- *Common Noun Suffixes:*
+  - Adding -er indicates the person who is carrying out an action.
+      - Example: A person who swimsis a swimmer.
+  - Adding -ance indicates the fact or state of carrying out an action.
+      - Example: Someone who performs gives a performance.        
 
 - *Usage Tips:*
   - Common nouns are not capitalized unless they begin a sentence.
@@ -186,6 +197,9 @@
       - Example: The team is playing well.
    - Use a plural verb when emphasizing the individuals within the group.
       - Example: The team are preparing for their games.
+
+#### Compound Nouns
+- **Definition:** Compound nouns label a single concept composed of two or more words.
 
 ### Pronouns
 
