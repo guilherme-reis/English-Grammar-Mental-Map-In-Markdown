@@ -1,3 +1,10 @@
+---
+markmap:
+  initialExpandLevel:
+    - 1
+  # other options
+---
+
 # English Grammar Mental Map
 
 ## Parts of Speech
